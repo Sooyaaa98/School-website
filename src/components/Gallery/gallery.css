@@ -1,0 +1,42 @@
+.campus {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .campus h4 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .campus h5 {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .campus-photos {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .campus-photos img {
+    width: 400px; 
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .campus-photos img:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); 
+  }
+
+  hr {
+    border: none;
+    height: 2px;
+    background-color: #2f3235; 
+    margin: 20px 0;
+  }
+  
+  

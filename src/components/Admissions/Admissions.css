@@ -1,0 +1,47 @@
+.admissions {
+    padding: 40px;
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: center;
+  }
+  
+  .admissions h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  .admissions-content {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  .admissions-section {
+    margin-bottom: 30px;
+  }
+  
+  .admissions-section h3 {
+    font-size: 1.8em;
+    color: #007bff;
+    margin-bottom: 10px;
+  }
+  
+  .admissions-section p {
+    font-size: 1.2em;
+    line-height: 1.6;
+  }
+  
+  .admissions-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .admissions-section li {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  .admissions-section strong {
+    color: #333;
+  }
+  

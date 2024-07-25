@@ -1,0 +1,44 @@
+.academics {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .academics img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .academic {
+    text-align: left;
+    width: 100%;
+  }
+  
+  .academic h4 {
+    font-size: 22px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .academic h5 {
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: #67648f;
+  }
+  
+  .academic p {
+    font-size: 16px;
+    margin-bottom: 15px;
+    line-height: 1.5;
+    color: #555;
+  }
+  

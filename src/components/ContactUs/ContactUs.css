@@ -1,0 +1,80 @@
+.contact-container {
+    padding: 40px;
+    background-color: #f9f9f9;
+  }
+  
+  .contact-container h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .contact-info {
+    margin-bottom: 30px;
+  }
+  
+  .contact-info h4 {
+    font-size: 20px;
+    margin-bottom: 5px;
+    color: #007bff;
+  }
+  
+  .contact-info p {
+    font-size: 16px;
+    margin-bottom: 15px;
+    color: #666;
+  }
+  
+  .contact-form h4 {
+    font-size: 20px;
+    margin-bottom: 15px;
+    color: #007bff;
+  }
+  
+  .contact-form .form-group {
+    margin-bottom: 15px;
+    text-align: left;
+  }
+  
+  .contact-form .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 16px;
+  }
+  
+  .contact-form .form-group input,
+  .contact-form .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .contact-form .btn {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .contact-form .btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .map-container {
+    margin-top: 30px;
+  }
+  
+  .map-container iframe {
+    border: 0;
+  }
+
+  .contact-container {
+    padding: 40px;
+    background-color: #f9f9f9;
+    margin-bottom: 100px; 
+  }
+  
